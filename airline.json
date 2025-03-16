@@ -1,8 +1,8 @@
 {
-    "name": "",
-    "color": "",
+    "name": "Boeing 737-700",
+    "color": "green",
     "bgcolor": "",
-    "aircrafts": {
+    "aircrafts":air Canada {
         "1": {
             "name": "Piper J3 Cub",
             "liveries": [
